@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+debe ingresar a la carpeta de calculadora, dar click derecho, y darle, en abrir terminal ahí, esperan a que responda el comando, y escribir:
+
 ### `npm start`
 
 Runs the app in the development mode.\
